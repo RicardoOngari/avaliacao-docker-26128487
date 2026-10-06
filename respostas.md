@@ -1,9 +1,9 @@
 # Respostas · Avaliação Prática de Docker · Cooperativa AgroVale (Turma A)
 
-Nome:
-Matrícula:
-Usuário do GitHub:
-Usuário do Docker Hub:
+Nome: Ricardo Ongari
+Matrícula: 26128487
+Usuário do GitHub: Ricardo Ongari
+Usuário do Docker Hub: ricardoongari
 
 Responda com as suas palavras e com o que aconteceu na SUA máquina. Resposta curta e certa vale mais
 do que texto longo copiado. Resposta que contradiz o seu próprio Dockerfile ou compose vale zero.
@@ -21,8 +21,10 @@ do que texto longo copiado. Resposta que contradiz o seu próprio Dockerfile ou 
 ## Parte 2 · Docker Hub
 
 3. Nome completo da imagem publicada e link público do repositório no Docker Hub.
+   R: Nome completo da imagem publicada: ricardoongari/agrovale-portal:1.0-26128487
 
 4. Por que o `docker login` foi feito com um token de acesso e não com a senha da conta?
+   R: Docker Hub usa um token para autenticação no terminal, evitando o uso direto da senha da conta e permitindo controlar as  permissões de acesso
 
 ## Parte 3 · Página de manutenção
 
